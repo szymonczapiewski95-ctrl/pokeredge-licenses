@@ -1,115 +1,132 @@
 {
-  "version": "10.1.0",
-  "licenses": {
-    "DEUCE-TESTER-001": {
-      "userId": "3624230",
-      "username": "Deuce",
-      "status": "active",
-      "tier": "tester",
-      "issuedAt": "2025-01-20",
-      "expiresAt": "2099-12-31",
-      "features": ["all"],
-      "notes": "Full access forever"
-    },
-    "TEMPLATE-BASIC-EXAMPLE": {
-      "userId": "0000000",
-      "username": "Example",
-      "status": "active",
-      "tier": "basic",
-      "issuedAt": "2025-01-20",
-      "expiresAt": "2025-12-20",
-      "features": ["hero-cards", "board", "position", "strength", "street", "players", "table", "player-stats", "vpip-pfr", "style"],
-      "notes": "Basic tier - limited features"
-    },
-    "TEMPLATE-PREMIUM-EXAMPLE": {
-      "userId": "0000000",
-      "username": "Example",
-      "status": "active",
-      "tier": "premium",
-      "issuedAt": "2025-01-20",
-      "expiresAt": "2025-12-20",
-      "features": ["all"],
-      "notes": "Premium tier - full access for 1 month"
-    },
-    "TEMPLATE-EXPIRED-EXAMPLE": {
-      "userId": "00000000",
-      "username": "Example",
-      "status": "active",
-      "tier": "premium",
-      "issuedAt": "2024-12-01",
-      "expiresAt": "2024-12-31",
-      "features": ["all"],
-      "notes": "Test expired license"
-    },
-    "TEMPLATE-REVOKED-EXAMPLE": {
-      "userId": "00000000",
-      "username": "Example",
-      "status": "revoked",
-      "tier": "premium",
-      "issuedAt": "2025-01-01",
-      "expiresAt": "2025-12-31",
-      "features": [],
-      "notes": "Test revoked license"
-    },
-    "IGHPB-KV1J8-FCX80": {
-      "userId": "11111111",
-      "username": "Tester1",
-      "status": "active",
-      "tier": "tester",
-      "issuedAt": "2025-11-27",
-      "expiresAt": "2099-12-31",
-      "features": [
-        "all"
-      ],
-      "notes": "Tester license for Tester1"
-    },
-    "RNAZ4-EI170-GWOKA": {
-      "userId": "22222222",
-      "username": "Tester2",
-      "status": "active",
-      "tier": "tester",
-      "issuedAt": "2025-11-27",
-      "expiresAt": "2099-12-31",
-      "features": [
-        "all"
-      ],
-      "notes": "Tester license for Tester2"
-    },
-    "7PUBF-8N0R0-FG7HD": {
-      "userId": "33333333",
-      "username": "Tester3",
-      "status": "active",
-      "tier": "tester",
-      "issuedAt": "2025-11-27",
-      "expiresAt": "2099-12-31",
-      "features": [
-        "all"
-      ],
-      "notes": "Tester license for Tester3"
-    },
-    "922C7-CRU1S-2YEXB": {
-      "userId": "44444444",
-      "username": "Tester4",
-      "status": "active",
-      "tier": "tester",
-      "issuedAt": "2025-11-27",
-      "expiresAt": "2099-12-31",
-      "features": [
-        "all"
-      ],
-      "notes": "Tester license for Tester4"
-    },
-    "63IRO-HZMO6-MHXMU": {
-      "userId": "55555555",
-      "username": "Tester5",
-      "status": "active",
-      "tier": "tester",
-      "issuedAt": "2025-11-27",
-      "expiresAt": "2099-12-31",
-      "features": [
-        "all"
-      ],
-      "notes": "Tester license for Tester5"
-    }
-  }
+	"version": "10.1.0",
+	"licenses": {
+		"DEUCE-TESTER-001": {
+			"userId": "3624230",
+			"username": "Deuce",
+			"status": "active",
+			"tier": "tester",
+			"issuedAt": "2025-01-20",
+			"expiresAt": "2099-12-31",
+			"features": [
+				"all"
+			],
+			"notes": "Full access forever"
+		},
+		"TEMPLATE-BASIC-EXAMPLE": {
+			"userId": "0000000",
+			"username": "Example",
+			"status": "active",
+			"tier": "basic",
+			"issuedAt": "2025-01-20",
+			"expiresAt": "2025-12-20",
+			"features": [
+				"hero-cards",
+				"board",
+				"position",
+				"strength",
+				"street",
+				"players",
+				"table",
+				"player-stats",
+				"vpip-pfr",
+				"style"
+			],
+			"notes": "Basic tier - limited features"
+		},
+		"TEMPLATE-PREMIUM-EXAMPLE": {
+			"userId": "0000000",
+			"username": "Example",
+			"status": "active",
+			"tier": "premium",
+			"issuedAt": "2025-01-20",
+			"expiresAt": "2025-12-20",
+			"features": [
+				"all"
+			],
+			"notes": "Premium tier - full access for 1 month"
+		},
+		"TEMPLATE-EXPIRED-EXAMPLE": {
+			"userId": "00000000",
+			"username": "Example",
+			"status": "active",
+			"tier": "premium",
+			"issuedAt": "2024-12-01",
+			"expiresAt": "2024-12-31",
+			"features": [
+				"all"
+			],
+			"notes": "Test expired license"
+		},
+		"TEMPLATE-REVOKED-EXAMPLE": {
+			"userId": "00000000",
+			"username": "Example",
+			"status": "revoked",
+			"tier": "premium",
+			"issuedAt": "2025-01-01",
+			"expiresAt": "2025-12-31",
+			"features": [],
+			"notes": "Test revoked license"
+		},
+		"IGHPB-KV1J8-FCX80": {
+			"userId": "11111111",
+			"username": "Tester1",
+			"status": "active",
+			"tier": "tester",
+			"issuedAt": "2025-11-27",
+			"expiresAt": "2099-12-31",
+			"features": [
+				"all"
+			],
+			"notes": "Tester license for Tester1"
+		},
+		"RNAZ4-EI170-GWOKA": {
+			"userId": "22222222",
+			"username": "Tester2",
+			"status": "active",
+			"tier": "tester",
+			"issuedAt": "2025-11-27",
+			"expiresAt": "2099-12-31",
+			"features": [
+				"all"
+			],
+			"notes": "Tester license for Tester2"
+		},
+		"7PUBF-8N0R0-FG7HD": {
+			"userId": "33333333",
+			"username": "Tester3",
+			"status": "active",
+			"tier": "tester",
+			"issuedAt": "2025-11-27",
+			"expiresAt": "2099-12-31",
+			"features": [
+				"all"
+			],
+			"notes": "Tester license for Tester3"
+		},
+		"922C7-CRU1S-2YEXB": {
+			"userId": "44444444",
+			"username": "Tester4",
+			"status": "active",
+			"tier": "tester",
+			"issuedAt": "2025-11-27",
+			"expiresAt": "2099-12-31",
+			"features": [
+				"all"
+			],
+			"notes": "Tester license for Tester4"
+		},
+		"63IRO-HZMO6-MHXMU": {
+			"userId": "55555555",
+			"username": "Tester5",
+			"status": "active",
+			"tier": "tester",
+			"issuedAt": "2025-11-27",
+			"expiresAt": "2099-12-31",
+			"features": [
+				"all"
+			],
+			"notes": "Tester license for Tester5"
+		}
+	}
 }
