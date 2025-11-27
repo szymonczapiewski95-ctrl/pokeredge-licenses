@@ -15,7 +15,7 @@
 		},
 		"TEMPLATE-BASIC-EXAMPLE": {
 			"userId": "0000000",
-			"username": "Example",
+			"username": "Basic Example",
 			"status": "active",
 			"tier": "basic",
 			"issuedAt": "2025-01-20",
@@ -36,7 +36,7 @@
 		},
 		"TEMPLATE-PREMIUM-EXAMPLE": {
 			"userId": "0000000",
-			"username": "Example",
+			"username": "Premium Example",
 			"status": "active",
 			"tier": "premium",
 			"issuedAt": "2025-01-20",
@@ -48,7 +48,7 @@
 		},
 		"TEMPLATE-EXPIRED-EXAMPLE": {
 			"userId": "0000000",
-			"username": "Example",
+			"username": "Expired Example",
 			"status": "active",
 			"tier": "premium",
 			"issuedAt": "2024-12-01",
@@ -60,7 +60,7 @@
 		},
 		"TEMPLATE-REVOKED-EXAMPLE": {
 			"userId": "0000000",
-			"username": "Example",
+			"username": "Revoked Example",
 			"status": "revoked",
 			"tier": "premium",
 			"issuedAt": "2025-01-01",
