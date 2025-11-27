@@ -1,56 +1,55 @@
 {
-  "version": "10.0.0",
-  "updateUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/pokeredge/main/pokeredge.user.js",
+  "version": "10.1.0",
   "licenses": {
-    "EXAMPLE-TESTER-12345": {
+    "DEUCE-TESTER-001": {
       "userId": "3624230",
       "username": "Deuce",
       "status": "active",
       "tier": "tester",
-      "issuedAt": "2025-01-01",
+      "issuedAt": "2025-01-20",
       "expiresAt": "2099-12-31",
       "features": ["all"],
-      "notes": "Developer/Tester account - No expiration"
+      "notes": "Full access forever"
     },
-    "BASIC-DEMO-ABC123": {
-      "userId": "1234567",
-      "username": "BasicUser",
+    "DEUCE-BASIC-002": {
+      "userId": "3624230",
+      "username": "Deuce",
       "status": "active",
       "tier": "basic",
-      "issuedAt": "2025-01-15",
-      "expiresAt": "2025-02-15",
+      "issuedAt": "2025-01-20",
+      "expiresAt": "2025-02-20",
       "features": ["hero-cards", "board", "position", "strength", "street", "players", "table", "player-stats", "vpip-pfr", "style"],
-      "notes": "Basic tier - 1 month access"
+      "notes": "Basic tier - limited features"
     },
-    "PREMIUM-XYZ789-ABC": {
-      "userId": "7654321",
-      "username": "PremiumUser",
+    "DEUCE-PREMIUM-003": {
+      "userId": "3624230",
+      "username": "Deuce",
       "status": "active",
       "tier": "premium",
-      "issuedAt": "2025-01-10",
-      "expiresAt": "2025-02-10",
+      "issuedAt": "2025-01-20",
+      "expiresAt": "2025-02-20",
       "features": ["all"],
-      "notes": "Premium tier - Full access for 1 month"
+      "notes": "Premium tier - full access for 1 month"
     },
-    "EXPIRED-TEST-99999": {
-      "userId": "9999999",
-      "username": "ExpiredUser",
+    "DEUCE-EXPIRED-004": {
+      "userId": "3624230",
+      "username": "Deuce",
       "status": "active",
       "tier": "premium",
       "issuedAt": "2024-12-01",
       "expiresAt": "2024-12-31",
       "features": ["all"],
-      "notes": "Example of expired license"
+      "notes": "Test expired license"
     },
-    "REVOKED-USER-88888": {
-      "userId": "8888888",
-      "username": "RevokedUser",
+    "DEUCE-REVOKED-005": {
+      "userId": "3624230",
+      "username": "Deuce",
       "status": "revoked",
       "tier": "premium",
       "issuedAt": "2025-01-01",
       "expiresAt": "2025-12-31",
       "features": [],
-      "notes": "License revoked - violations"
+      "notes": "Test revoked license"
     }
   }
 }
