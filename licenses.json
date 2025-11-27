@@ -32,8 +32,8 @@
       "notes": "Premium tier - full access for 1 month"
     },
     "TEMPLATE-EXPIRED-EXAMPLE": {
-      "userId": "3624230",
-      "username": "Deuce",
+      "userId": "00000000",
+      "username": "Example",
       "status": "active",
       "tier": "premium",
       "issuedAt": "2024-12-01",
@@ -42,8 +42,8 @@
       "notes": "Test expired license"
     },
     "TEMPLATE-REVOKED-EXAMPLE": {
-      "userId": "3624230",
-      "username": "Deuce",
+      "userId": "00000000",
+      "username": "Example",
       "status": "revoked",
       "tier": "premium",
       "issuedAt": "2025-01-01",
