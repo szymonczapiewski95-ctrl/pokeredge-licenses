@@ -47,7 +47,7 @@
 			"notes": "Premium tier - full access for 1 month"
 		},
 		"TEMPLATE-EXPIRED-EXAMPLE": {
-			"userId": "00000000",
+			"userId": "0000000",
 			"username": "Example",
 			"status": "active",
 			"tier": "premium",
@@ -59,7 +59,7 @@
 			"notes": "Test expired license"
 		},
 		"TEMPLATE-REVOKED-EXAMPLE": {
-			"userId": "00000000",
+			"userId": "0000000",
 			"username": "Example",
 			"status": "revoked",
 			"tier": "premium",
@@ -69,7 +69,7 @@
 			"notes": "Test revoked license"
 		},
 		"IGHPB-KV1J8-FCX80": {
-			"userId": "11111111",
+			"userId": "1111111",
 			"username": "Tester1",
 			"status": "active",
 			"tier": "tester",
@@ -81,7 +81,7 @@
 			"notes": "Tester license for Tester1"
 		},
 		"RNAZ4-EI170-GWOKA": {
-			"userId": "22222222",
+			"userId": "2222222",
 			"username": "Tester2",
 			"status": "active",
 			"tier": "tester",
@@ -93,7 +93,7 @@
 			"notes": "Tester license for Tester2"
 		},
 		"7PUBF-8N0R0-FG7HD": {
-			"userId": "33333333",
+			"userId": "3333333",
 			"username": "Tester3",
 			"status": "active",
 			"tier": "tester",
@@ -105,7 +105,7 @@
 			"notes": "Tester license for Tester3"
 		},
 		"922C7-CRU1S-2YEXB": {
-			"userId": "44444444",
+			"userId": "4444444",
 			"username": "Tester4",
 			"status": "active",
 			"tier": "tester",
@@ -117,7 +117,7 @@
 			"notes": "Tester license for Tester4"
 		},
 		"63IRO-HZMO6-MHXMU": {
-			"userId": "55555555",
+			"userId": "5555555",
 			"username": "Tester5",
 			"status": "active",
 			"tier": "tester",
