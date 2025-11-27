@@ -1,0 +1,56 @@
+{
+  "version": "10.0.0",
+  "updateUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/pokeredge/main/pokeredge.user.js",
+  "licenses": {
+    "EXAMPLE-TESTER-12345": {
+      "userId": "2876935",
+      "username": "Szymon",
+      "status": "active",
+      "tier": "tester",
+      "issuedAt": "2025-01-01",
+      "expiresAt": "2099-12-31",
+      "features": ["all"],
+      "notes": "Developer/Tester account - No expiration"
+    },
+    "BASIC-DEMO-ABC123": {
+      "userId": "1234567",
+      "username": "BasicUser",
+      "status": "active",
+      "tier": "basic",
+      "issuedAt": "2025-01-15",
+      "expiresAt": "2025-02-15",
+      "features": ["hero-cards", "board", "position", "strength", "street", "players", "table", "player-stats", "vpip-pfr", "style"],
+      "notes": "Basic tier - 1 month access"
+    },
+    "PREMIUM-XYZ789-ABC": {
+      "userId": "7654321",
+      "username": "PremiumUser",
+      "status": "active",
+      "tier": "premium",
+      "issuedAt": "2025-01-10",
+      "expiresAt": "2025-02-10",
+      "features": ["all"],
+      "notes": "Premium tier - Full access for 1 month"
+    },
+    "EXPIRED-TEST-99999": {
+      "userId": "9999999",
+      "username": "ExpiredUser",
+      "status": "active",
+      "tier": "premium",
+      "issuedAt": "2024-12-01",
+      "expiresAt": "2024-12-31",
+      "features": ["all"],
+      "notes": "Example of expired license"
+    },
+    "REVOKED-USER-88888": {
+      "userId": "8888888",
+      "username": "RevokedUser",
+      "status": "revoked",
+      "tier": "premium",
+      "issuedAt": "2025-01-01",
+      "expiresAt": "2025-12-31",
+      "features": [],
+      "notes": "License revoked - violations"
+    }
+  }
+}
